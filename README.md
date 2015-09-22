@@ -12,7 +12,7 @@
  ``` 
 
 ``` 
-> open http://localhost:3001/#/main 
+> open http://localhost:3000/#/main 
 ```
 
 
